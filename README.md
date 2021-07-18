@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Adel
+####  I'm a Web Developer
+![ I'm a Web Developer](https://github.com/adelchellabi/adelchellabi/blob/main/JPEG_20210430_131109_1183060045851371636.jpg?raw=true)
 
-<!--
-**adelchellabi/adelchellabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm a full stack web developer and a freelance software engineer from algeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build
 
-Here are some ideas to get you started:
+### Skills: 
+REACT 
+HTML / CSS
+Bootstrap / Tailwindcss
+Springboot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adelchellabi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adel-chelabi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adel_chellabi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adelchellabi.github.io/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelchellabi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adelchellabi&show_icons=true)  
+
